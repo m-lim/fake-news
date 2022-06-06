@@ -1,0 +1,1 @@
+[Link](https://medium.com/@m-lim/fake-news-detection-using-traditional-machine-learning-and-deep-learning-models-739dd07863ab?source=friends_link&sk=d8878825ea1d17fe95aba02d8432491a) to Medium article
